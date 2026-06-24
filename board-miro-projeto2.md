@@ -1,3 +1,0 @@
-## Conclusão do Desafio 2 - Board no Miro
-
-https://miro.com/welcomeonboard/eHlaTjgwN2h0N1Z2eWExZFV3ajRuRVZ1cjZsWkVad0RFZk1LSHdGejVpZ3hYWnhPemYrRXVPTGt0SU43Q21FR211Zlg0SmhnQUlqZ29OTldUTjZGL29QVzdiTkZmSkpjbng1VmgxbTlVQW81Y1hVcVgzaHhNRG1kbnRNUGtsdkVzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=762228993849
