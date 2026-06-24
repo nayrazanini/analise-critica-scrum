@@ -1,6 +1,5 @@
-# analise-critica-scrum
+# Desafio 1 - Analise Critica Scrum
 Desafio DIO - Scrum Master Certification 
-
 
 # Análise Crítica da Aplicação do Scrum no Spotify
 
@@ -57,3 +56,10 @@ O caso Spotify demonstra que a adoção do Scrum, quando associada a uma cultura
 A empresa criou um modelo organizacional que favorece a inovação, a escalabilidade e a entrega contínua de valor aos clientes. A adoção de metodologias ágeis vai muito além da utilização de cerimônias e artefatos do Scrum. Os estudos realizados durante a Pós-Graduação em Engenharia de Software evidenciaram que o verdadeiro diferencial está na construção de uma cultura organizacional orientada à colaboração, à autonomia das equipes, à melhoria contínua e à adaptação constante às mudanças do mercado.
 
 Nesse sentido, o Spotify consolidou-se não apenas como um caso de sucesso empresarial, mas também como uma importante referência acadêmica para o estudo da transformação ágil nas organizações modernas, servindo de inspiração para profissionais e empresas que buscam maior eficiência, inovação e capacidade de adaptação em um cenário tecnológico cada vez mais dinâmico.
+
+
+# Desafio 2 - Board No Miro
+Desafio DIO - Scrum Master Certification 
+
+[🚀 ACESSE AQUI](https://miro.com/welcomeonboard/eHlaTjgwN2h0N1Z2eWExZFV3ajRuRVZ1cjZsWkVad0RFZk1LSHdGejVpZ3hYWnhPemYrRXVPTGt0SU43Q21FR211Zlg0SmhnQUlqZ29OTldUTjZGL29QVzdiTkZmSkpjbng1VmgxbTlVQW81Y1hVcVgzaHhNRG1kbnRNUGtsdkVzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=762228993849)
+
